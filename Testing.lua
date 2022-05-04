@@ -1,14 +1,14 @@
-local Library = loadstring(game:HttpGet("https://pastebin.com/raw/vff1bQ9F"))()
 
-local Window  = Library.CreateLib("Pop it trading v2 made by romlnwza007#3770", "Serpent")
 
-local Tab     = Window:NewTab("Main Scripts")
 
-local Section = Tab:NewSection("Buy NFTS")
 
-local Section = Tab:NewSection("Click the Tab to open and Close")
 
-Section:NewToggle("fast Attack"  , "fastattack", function(value)
+
+
+
+
+
+
 
 spawn(function()
 
